@@ -1,4 +1,4 @@
-coinomi-website
+coinomi-website An amazing project
 ===============
 
 Sources that power the coinomi.com website.
